@@ -7,3 +7,4 @@ Its primary goal is to reduce the mess of magnet wires in portables and to make 
 
 PCBWay can fabricate this easily as well. Kinda expensive though and the ideal number of flex per batch is 25 pcs. But it's so worth it :)
 
+https://web.archive.org/web/20211211042716/https://bitbuilt.net/forums/index.php?threads/omegaflex-combined-nand-gpu-signal-u10-relocation-flex-pcb.4679/
